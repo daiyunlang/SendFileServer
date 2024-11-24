@@ -1,0 +1,6 @@
+*.pro.user
+bin/
+debug/
+release/
+*Makefile*
+.qtc_clangd/
